@@ -1,0 +1,48 @@
+
+
+.titleHome{
+    color: cadetblue;
+}
+
+body {
+    background-image: url(images/mapa-got.jpg);   
+}
+
+.navbar-brand{
+    padding-left: 10px;
+}
+
+.h1Pauliceia{
+    padding-top: 50px;
+    padding-left: 800px;
+    color: rgb(241, 90, 43)
+}
+
+.h2Mapeamento{
+    padding-left: 800px;
+    color: rgb(241, 90, 43)
+
+}
+
+.h2Data{
+    padding-left: 1000px;
+    color: rgb(241, 90, 43)
+
+}
+
+.logoPauliceia{
+    float: left;
+    margin-left: 600px;
+    padding-top: 60px;
+}
+
+.page-footer{
+
+    padding-top: 180px;
+    background-color: rgb(52, 58, 64);
+    padding-left: 200px;
+}
+
+.pageFooter{
+    padding-top: 300px;
+}
